@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-ramhuw",
-  "commit": "b109fe92040796c24e82724ec4d0676b09206208",
-  "score": 15,
+  "commit": "e7cc335f8745ce201ba0b149068102c659599acc",
+  "score": 19,
   "totalScore": 100,
   "exercises": [
     {
@@ -37,9 +37,9 @@
     {
       "name": "mem_primitives",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "bump_allocator",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "ramhuw",
-  "runId": "38837132614",
+  "runId": "38849686737",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
